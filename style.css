@@ -1,0 +1,23 @@
+body {
+    background-color: #e2e2e2;
+}
+
+canvas{
+    display: block;
+    margin: auto;
+}
+
+button{
+    display: block;
+    width: 608px;
+    margin: 15 auto 3 auto;
+    font-size: 25px;
+    color: white;
+    padding: 6px;
+    background: #22883c;
+    border: 1px solid white;
+}
+
+button:hover{
+    background: #28ad4a;
+}
